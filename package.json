@@ -1,0 +1,24 @@
+{
+  "name": "centavo",
+  "version": "0.0.0",
+  "description": "A DOM Library built with Peso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamonserrano/centavo.git"
+  },
+  "author": "Viktor Honti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamonserrano/centavo/issues"
+  },
+  "homepage": "https://github.com/jamonserrano/centavo#readme",
+  "sideEffects": false,
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "peso": "^0.8.0"
+  }
+}
